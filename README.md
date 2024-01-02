@@ -1,6 +1,8 @@
 # Basic-Linux-Commands-used-in-Devops
 Mostly used Basic Linux Commands in DevOps field
 
+***Small project using linux and git comnands***
+
 Certainly, here are the steps in a tabular format:
 
 | Step | Action                                               | Description                                    |
@@ -82,6 +84,8 @@ Series of steps to create directories and files. Here's how you can do it:
 
 Now, you've created the directory structure and files according to your instructions.
 ----------------------------------------------------------------
+
+***Basic Linux Commands***
 
 All Lists of common commands used in DevOps along with explanations and use cases:
 ---
@@ -216,6 +220,8 @@ Let's go through each command with examples to provide a clearer understanding p
 These examples illustrate how each command is used in different scenarios. 
 Understanding and practicing these commands will help to navigate the command line effectively in a DevOps environment.
 ----
+
+***Basic Git commands***
 
 Here's an explanation for each of the basic Git commands:
 
